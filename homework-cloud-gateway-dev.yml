@@ -1,0 +1,3 @@
+sentinel-filter:
+  time: 10
+  count: 10
